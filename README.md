@@ -5,3 +5,6 @@ This repository contains my answers for freecodecamp, Front End Development Libr
 
 *** 
 ![](images/ss1.png)
+
+#### Bootstrap 1.1: line-up-form-elements-responsively-with-bootstrap.png
+![](images/line-up-form-elements-responsively-with-bootstrap.html.png)
