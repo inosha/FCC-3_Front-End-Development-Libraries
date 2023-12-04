@@ -11,6 +11,6 @@ This repository contains my answers for freecodecamp, Front End Development Libr
 
 #### Bootstrap 1.1: line-up-form-elements-responsively-with-bootstrap.html
 
-code: (line-up-form-elements-responsively-with-bootstrap.html)
+: (line-up-form-elements-responsively-with-bootstrap.html)
 
 ![](images/line-up-form-elements-responsively-with-bootstrap.html.png)
