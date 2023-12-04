@@ -11,6 +11,10 @@ This repository contains my answers for freecodecamp, Front End Development Libr
 
 ### Completed:
 
-#### Bootstrap 1.1: [line-up-form-elements-responsively-with-bootstrap.html](line-up-form-elements-responsively-with-bootstrap.html)
+#### Bootstrap 1.1: [catphotoapp-bootstrap.html](catphotoapp-bootstrap.html)
 
-![](images/line-up-form-elements-responsively-with-bootstrap.html.png)
+![](images/catphotoapp-bootstrap.html.png)
+
+#### Bootstrap 1.2: [jQueryPlayground-bootstrap](jQueryPlayground-bootstrap.html)
+
+![](images/jQueryPlayground-bootstrap.html.png)
