@@ -1,4 +1,4 @@
 # FCC-3_frontend-dev
-Front End Development Libraries
+This repository contains my answers for freecodecamp, Front End Development Libraries certification.
 *** 
 ![](images/ss1.png)
