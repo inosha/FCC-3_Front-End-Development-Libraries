@@ -23,3 +23,8 @@ This repository contains my answers for freecodecamp, Front End Development Libr
 
 ![](images/jQuery.html.gif)
 
+#### [SCSS-final-topic](SCSS.html)
+
+extend-one-set-of-css-styles-to-another-element
+
+![](images/extend-one-set-of-css-styles-to-another-element.png)
