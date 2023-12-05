@@ -18,3 +18,8 @@ This repository contains my answers for freecodecamp, Front End Development Libr
 #### Bootstrap 1.2: [jQueryPlayground-bootstrap](jQueryPlayground-bootstrap.html)
 
 ![](images/jQueryPlayground-bootstrap.html.png)
+
+#### [jQuery](jQuery.html)
+
+![](images/jQuery.html.gif)
+
