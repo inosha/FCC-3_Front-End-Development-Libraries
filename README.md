@@ -9,7 +9,7 @@ This repository contains my answers for freecodecamp, Front End Development Libr
 
 (image source: https://www.freecodecamp.org/learn/front-end-development-libraries/)
 
-### Completed:
+### Completed tasks:
 
 #### Bootstrap 1.1: [catphotoapp-bootstrap.html](catphotoapp-bootstrap.html)
 
